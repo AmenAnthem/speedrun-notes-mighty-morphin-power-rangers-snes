@@ -1,5 +1,5 @@
 ---
-title: Any% 1 Player
+title: Any%
 author: AmenAnthem
 ---
 
